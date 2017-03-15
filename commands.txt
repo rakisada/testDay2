@@ -1,0 +1,3 @@
+git diff - shows difference between your machine's code and git's version of that code
+git log - shows previous commits
+git reset - rollback (soft - just git, hard - CHANGES CODE)
