@@ -2,3 +2,7 @@ git diff - shows difference between your machine's code and git's version of tha
 git log - shows previous commits
 git reset - rollback (soft - just git, hard - CHANGES CODE)
 git pull/fetch - pull merges changes with your local branch. fetch does not
+
+git branch
+git checkout
+
